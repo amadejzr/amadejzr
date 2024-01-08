@@ -1,7 +1,4 @@
-# 💻 Amadej - Developer
-
-## 👋 Introduction
-Hi there! I'm Amadej, a passionate programmer.
+![Header](./banner.png)
 
 ## Skills & Technologies
 
