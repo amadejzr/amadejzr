@@ -2,7 +2,7 @@
 
 ## <span style="color:#9C5631;">Skills & Technologies</span>
 
-### 💻 <span style="color:#D0986A;">Development Languages & Frameworks</span>
+### 💻 <span style="color:red;">Development Languages & Frameworks</span>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/yii/yii-original.svg" title="Yii" alt="Yii" width="40" height="40"/>&nbsp;
