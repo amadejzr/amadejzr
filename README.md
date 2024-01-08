@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./git_banner.png)
 
 ## Skills & Technologies
 
