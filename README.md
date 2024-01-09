@@ -1,4 +1,11 @@
 ![Header](./git_banner.png)
+---
+![Header](./banner_1.png)
+---
+![Header](./banner_2.png)
+---
+![Header](./banner_2.png)
+---
 
 ## <span style="color:#9C5631;">Skills & Technologies</span>
 
