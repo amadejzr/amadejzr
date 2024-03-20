@@ -38,6 +38,12 @@
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
 </div>
 
+## 📝 <span style="color:#D0986A;">Documentation</span>
+<div>
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/docusaurus.svg" title="Apple" alt="Docusaurus" width="40" height="40"/>&nbsp;
+</div>
+
+
 ## 📫 <span style="color:#D0986A;">How to Reach Me</span>
 - LinkedIn: [Amadej](https://www.linkedin.com/in/amadej-jerlah-815440231/)
 - X: [@amadejson](https://twitter.com/Amadejson)
